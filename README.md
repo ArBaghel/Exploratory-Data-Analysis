@@ -45,9 +45,11 @@ Welcome to my repository for Exploratory Data Analysis (EDA) projects! Each note
 - choropleth maps for geographic visualization
 
 ## 📁 Repository Structure
-├── Bhopal_Food_Analysis.ipynb [https://github.com/ArBaghel/Exploratory-Data-Analysis/blob/main/Bhopal_Food_Analysis.ipynb]# EDA on food patterns and reviews in Bhopal
-├── Loan_Data_Analysis.ipynb # Loan approvals, demographics, and credit trends 
-├── Netflix_Titles_EDA.ipynb # Analysis of Netflix content by genre and geography 
-├── World_Population_EDA.ipynb # Choropleth map & population trends using plotly.express 
-└── README.md # Project overview and documentation
+## 📁 Repository Structure
+
+- [Bhopal_Food_Analysis.ipynb](https://github.com/ArBaghel/Exploratory-Data-Analysis/blob/main/Bhopal_Food_Analysis.ipynb) — EDA on food patterns and reviews in Bhopal  
+- [Loan_Data_Analysis.ipynb](https://github.com/ArBaghel/Exploratory-Data-Analysis/blob/main/Untitled2.ipynb) — Loan approvals, demographics, and credit trends  
+- [Netflix_Titles_EDA.ipynb](https://github.com/ArBaghel/Exploratory-Data-Analysis/blob/main/netflix.ipynb) — Netflix content by genre and geography  
+- [World_Population_EDA.ipynb](https://github.com/ArBaghel/Exploratory-Data-Analysis/blob/main/world_Population%20(2).ipynb) — Choropleth map & global population trends using Plotly  
+- README.md — Project overview and documentation
 
